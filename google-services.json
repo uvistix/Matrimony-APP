@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "735041670583",
+    "project_id": "bwbmatrimony",
+    "storage_bucket": "bwbmatrimony.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735041670583:android:5caa3b6cf36ed4ab566c32",
+        "android_client_info": {
+          "package_name": "com.bwbmatrimony.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735041670583-jvcc2mq11vbeg2b957lqkdhhb4lp1qto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bwbmatrimony.app",
+            "certificate_hash": "819a18141e3962403712d8cb392edecc3822a96b"
+          }
+        },
+        {
+          "client_id": "735041670583-qgi7mnjejo4jt1ji2jhioldk59pehn30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGRNVuaDqlYFJUCfb1ZsOeGTtVgfK6ii0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735041670583-lf3gr62kmac12mjc4o25n1l0rfd47f9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
