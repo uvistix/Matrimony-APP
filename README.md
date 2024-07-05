@@ -4,16 +4,16 @@
 Welcome to the Matrimony App, a comprehensive platform for individuals seeking meaningful connections. This application allows users to create, update, and delete profiles, view profiles of the opposite gender with detailed information, and request contact details securely.
 
 ## Features
-User Profile Management: Create, update, and delete user profiles.
-Profile Viewing: View profiles of the opposite gender with detailed personal, educational, professional, family, and kundli information (excluding contact numbers).
-Secure Contact Request: Request contact numbers, which are only shared upon mutual consent.
-Subscription: One-click subscription activation for 30 days without a payment gateway (beta phase).
-Search and Filter: Search profiles by name and profile ID. Filter profiles by age, location, job sector, and more.
+User Profile Management: Create, update, and delete user profiles.<br>
+Profile Viewing: View profiles of the opposite gender with detailed personal, educational, professional, family, and kundli information (excluding contact numbers).<br>
+Secure Contact Request: Request contact numbers, which are only shared upon mutual consent.<br>
+Subscription: One-click subscription activation for 30 days without a payment gateway (beta phase).<br>
+Search and Filter: Search profiles by name and profile ID. Filter profiles by age, location, job sector, and more.<br>
 
 ## Technology Stack
-Frontend: React Native
-Backend and Database: Firebase (Authentication, Database, Storage)
-Build Tool: Expo CLI
+Frontend: React Native<br>
+Backend and Database: Firebase (Authentication, Database, Storage)<br>
+Build Tool: Expo CLI<br>
 
 ## Dependencies
 "dependencies": {
@@ -54,21 +54,21 @@ Build Tool: Expo CLI
   }
 
 ## Key Functionalities
-User Profile Management
-*Create Profile: Users can create profiles by providing personal, educational, professional, family, and Kundli details.
-*Update Profile: Users can update their profiles as needed.
-*Delete Profile: Users can delete their profiles if they choose to.
+#### User Profile Management
+Create Profile: Users can create profiles by providing personal, educational, professional, family, and Kundli details.<br>
+Update Profile: Users can update their profiles as needed.<br>
+Delete Profile: Users can delete their profiles if they choose to.<br>
 
-Profile Viewing
-*View Profiles: Users can view profiles of the opposite gender, including detailed personal, educational, professional, family, and kundli information.
-*Contact Request: Users can request contact numbers, which will only be shared upon mutual consent.
+#### Profile Viewing
+View Profiles: Users can view profiles of the opposite gender, including detailed personal, educational, professional, family, and kundli information.<br>
+Contact Request: Users can request contact numbers, which will only be shared upon mutual consent.<br>
 
-Subscription
-*One-Click Subscription: Users can activate a 30-day subscription with one click. In the beta phase, no payment gateway is implemented, so the subscription is applied directly.
+#### Subscription
+One-Click Subscription: Users can activate a 30-day subscription with one click. In the beta phase, no payment gateway is implemented, so the subscription is applied directly.<br>
 
-Search and Filter
-*Search Profiles: Users can search profiles by name and profile ID.
-*Filter Profiles: Users can filter profiles by age, location, job sector, and more.
+#### Search and Filter
+Search Profiles: Users can search profiles by name and profile ID.<br>
+Filter Profiles: Users can filter profiles by age, location, job sector, and more.<br>
 
 ## License
 This project is licensed under the MIT License.
